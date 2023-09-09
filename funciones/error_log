@@ -1,0 +1,9 @@
+[09-Nov-2020 20:31:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rvygnhwx_adminlistasuper'@'apofis.servidoraweb.net' (using password: YES) in /home2/rvygnhwx/public_html/listasuper/funciones/conexion.php on line 13
+[09-Nov-2020 20:31:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/rvygnhwx/public_html/listasuper/funciones/loguear.php on line 26
+[09-Nov-2020 20:31:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/rvygnhwx/public_html/listasuper/funciones/loguear.php on line 31
+[09-Nov-2020 20:31:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rvygnhwx_adminlistasuper'@'apofis.servidoraweb.net' (using password: YES) in /home2/rvygnhwx/public_html/listasuper/funciones/conexion.php on line 13
+[09-Nov-2020 20:31:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/rvygnhwx/public_html/listasuper/funciones/loguear.php on line 26
+[09-Nov-2020 20:31:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/rvygnhwx/public_html/listasuper/funciones/loguear.php on line 31
+[09-Nov-2020 20:31:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rvygnhwx_adminlistasuper'@'apofis.servidoraweb.net' (using password: YES) in /home2/rvygnhwx/public_html/listasuper/funciones/conexion.php on line 13
+[09-Nov-2020 20:31:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/rvygnhwx/public_html/listasuper/funciones/loguear.php on line 26
+[09-Nov-2020 20:31:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/rvygnhwx/public_html/listasuper/funciones/loguear.php on line 31
